@@ -49,14 +49,14 @@ a,u{
     list-style-type: none;
     align-items: center;
     padding: 20px;
+    font-size: 23px;
     justify-content: center;
     
 }
 .profile ul li {
     padding: 10px;
 }
-.profilepic{
-    
+.profilepic{ 
     border-radius:100px;
     width: 150px;
     height: 150px;
@@ -86,5 +86,10 @@ a,u{
     justify-content: center;
     align-items: center;
     background-size: cover;
+    
+}
+.text {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
     
 }

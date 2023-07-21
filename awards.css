@@ -75,7 +75,7 @@ a,u{
 .right{
     color: black;
     margin-left:30px ;
-    font-family: cursive;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
     margin-right: 120px;
 }
@@ -95,9 +95,7 @@ a,u{
     list-style-type: none;
     display: flex;
     margin: 5px;
-    justify-content: space-evenly;
-    
-    
+    justify-content: space-evenly;  
 
 }
 .btn{
@@ -122,4 +120,8 @@ a,u{
 }
 .phno{
     font-size: 20px;
+}
+.left ul li {
+    margin-left: 10px;
+    margin-right: 10px;
 }
